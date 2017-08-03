@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+
 # This script provides a easy way to add route for my Linux router.
 # run ./rt.py [network/host] ([interface] [gateway]), if the latter
 # two parameter is not provided, this script will add route to the
